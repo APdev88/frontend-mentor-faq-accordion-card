@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-mockup.png.jpg)
+![](./design/desktop-mockup.png)
 
 ### Links
 
