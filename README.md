@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here!](https://github.com/APdev88/frontend-mentor-faq-accordion-card#the-challenge)
+- Live Site URL: [Click Here! ](https://faq-accordion-card-ap.netlify.app/)
 
 ## My process
 
@@ -48,8 +48,8 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 These links helped me solve the problem I had with only one element overflow
 
-- [stackoveflow](https://stackoverflow.com/questions/8837050/allow-specific-tag-to-override-overflowhidden)
-- [stackoveflow](https://stackoverflow.com/questions/36769109/overflow-only-certain-elements)
+- [stackoveflow](https://stackoverflow.com/questions/8837050/allow-specific-tag-to-override-overflowhidden) - Allow specific tag to override overflow:hidden
+- [stackoveflow](https://stackoverflow.com/questions/36769109/overflow-only-certain-elements) - Overflow only certain elements
 
 ## Author
 
