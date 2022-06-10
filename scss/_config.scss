@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+// Text
+$very-dark-blue: hsl(238, 29%, 16%);
+$soft-red: hsl(14, 88%, 65%);
+
+//Background gradient
+$soft-violet: hsl(273, 75%, 66%);
+$soft-blue: hsl(240, 73%, 65%);
+
+//Divider
+$light-blue: hsl(240, 5%, 91%);
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
